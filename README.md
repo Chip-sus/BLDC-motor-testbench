@@ -1,10 +1,16 @@
 # BLDC motor testbench with stm32 development board
 
-## Description
+## Project Overview
 
-This project serves as a template for controlling a BLDC motor, with detailed instructions to operate the system and can be used on any course related to STM32 microcontrollers.
-This project initially aimed for educational purposes of encourageing junior students to pick up a follow-up project with BLDC and/or develop more features from the base project.
+This project serves as a template for controlling a BLDC motor, with instructions to operate the system and can be used on any course related to STM32 microcontrollers.
+This project was initially aimed for educational purposes of encourageing junior students to pick up a follow-up project with BLDC and/or develop more features from the base project.
 The testbench will enable students to explore the operation, control, and performance characteristics of BLDC motors with available resources of an average laboratory.
+
+## Key features
+
+- Provides a complete and simple test bench setup, making it easy to evaluate motor speed & position based on HALL sensors.
+- Low level C programming, direct manipulation of microcontroller registers ensure high-performance and resource efficient controls.
+- Custom functions such as PWM output to control the 6-phases, or HALL sensor data capturing via USART.
 
 ## Used Resources
 
@@ -28,3 +34,8 @@ The testbench will enable students to explore the operation, control, and perfor
 ## Theseus link
 
 For more information, please refer to the following documentation: [BLDC Motor Testbench](https://www.theseus.fi/handle/10024/812671)
+
+## Acknowledgements
+
+I am extremely grateful for my Lecturer and Supervisor, Mr. Jani Ahvonen for helping me to conduct my thesis.\
+Many thanks to staffs at Technobothnia and VAMK to provide me with needed facicility, equipment and helpful guildances.

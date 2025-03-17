@@ -27,6 +27,4 @@ The testbench will enable students to explore the operation, control, and perfor
 
 ## Theseus link
 
-For more information, please refer to the following documentation:
-
-[BLDC Motor Testbench](https://www.theseus.fi/handle/10024/812671)
+For more information, please refer to the following documentation: [BLDC Motor Testbench](https://www.theseus.fi/handle/10024/812671)
